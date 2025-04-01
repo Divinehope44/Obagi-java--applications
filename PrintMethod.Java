@@ -5,7 +5,7 @@ public class PrintMethod{
 		System.out.print(" Hey, come and learn Java with me");
 		
 		//using the println()
-		System.out.println();
+		System.out.prin ,tln();
 		System.out.println("I want to tell you that Java is different from Javascript");
 		System.out.println(" \t this is the indented line");
 		
